@@ -88,6 +88,7 @@ MySQL • SQLite • MongoDB
 
 ### Tools
 Git • GitHub • Jupyter Notebook • VS Code
+
 ---
 
 ## 📫 Connect With Me
