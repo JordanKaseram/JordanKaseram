@@ -1,66 +1,58 @@
-# Jordan Kaseram
+Hi, I'm Jordan Kaseram 👋
 
-Data Science graduate from the University of British Columbia with a
-background in mathematics and experience in machine learning, statistical
-analysis, data visualization, and software development.
+Short data-science introduction
+Current job-search interests
 
-## Technical Skills
+────────────────────────────
 
-**Languages:** Python, R, SQL
+About Me
 
-**Machine Learning:** scikit-learn, classification, random forests,
-logistic regression, cross-validation, hyperparameter tuning
+• Master of Data Science — UBC
+• Honours Mathematics — MacEwan
+• Machine learning/data-analysis interests
+• Python, R and SQL
+• Interest in applying data science to real-world problems
 
-**Data Analysis:** pandas, NumPy, tidyverse, dplyr
+────────────────────────────
 
-**Visualization:** Matplotlib, ggplot2, Altair
+Featured Projects
 
-**Databases:** MySQL, SQLite, MongoDB
+TMed Technology — Graduate Data Science Capstone
+Description
+Tech
+Repository (if it can be public)
 
-**Tools:** Git, GitHub, Jupyter Notebook, VS Code
+AI Development Pull Request Analysis
+Description
+Tech
+Repository
 
-## Featured Projects
+Canvas Academic Insights
+Description
+Tech
+Repository
 
-### TMed Technology — Data Science Capstone
+────────────────────────────
 
-Graduate capstone project applying machine learning and data analysis
-to clinical sleep data to investigate factors associated with patient
-treatment outcomes.
+Tech Stack
 
-- Exploratory data analysis and data cleaning
-- Classification modelling
-- Cross-validation and hyperparameter tuning
-- ROC-AUC, F1, sensitivity and specificity evaluation
-- Feature importance analysis
+Languages
+Python • R • SQL
 
-### AI Development Pull Request Analysis
+Machine Learning & Data Science
+scikit-learn • pandas • NumPy • tidyverse
 
-Analyzed more than 900,000 software pull requests to investigate
-resolution-time patterns across AI coding agents.
+Visualization
+Matplotlib • ggplot2 • Altair
 
-- Large-scale data cleaning and integration
-- Statistical analysis
-- Derived resolution-time metrics
-- Data visualization
+Databases
+MySQL • SQLite • MongoDB
 
-### Canvas Academic Insights
+Tools
+Git • GitHub • Jupyter • VS Code
 
-Python package for retrieving, processing, analyzing, and visualizing
-academic performance data from Canvas.
+────────────────────────────
 
-- Python package development
-- Data visualization
-- Automated unit testing
-- Exception handling
+Connect
 
-## Education
-
-**Master of Data Science**  
-University of British Columbia — Okanagan Campus
-
-**Honours Degree in Mathematics**  
-MacEwan University
-
-## Connect
-
-[LinkedIn](YOUR-LINKEDIN-URL)
+LinkedIn
