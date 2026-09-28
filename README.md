@@ -3,8 +3,7 @@ Hi, I'm Jordan Kaseram 👋
 Short data-science introduction
 Current job-search interests
 
-────────────────────────────
-
+---
 About Me
 
 • Master of Data Science — UBC
@@ -13,7 +12,7 @@ About Me
 • Python, R and SQL
 • Interest in applying data science to real-world problems
 
-────────────────────────────
+---
 
 Featured Projects
 
@@ -32,7 +31,7 @@ Description
 Tech
 Repository
 
-────────────────────────────
+---
 
 Tech Stack
 
@@ -51,7 +50,7 @@ MySQL • SQLite • MongoDB
 Tools
 Git • GitHub • Jupyter • VS Code
 
-────────────────────────────
+---
 
 Connect
 
